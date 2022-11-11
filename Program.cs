@@ -110,7 +110,7 @@ ERROR => ";
         void ItemDesc()
         {
             Console.WriteLine("Item para recivir la informacion:");
-            Console.WriteLine($"DEBUG:\nId: {items.colacao.Id}\nNombre: {items.colacao.DisplayName}\nDescripcion: {items.colacao.Description}");
+            Console.WriteLine($"DEBUG:\nId: {items.colacao.Id}\nNombre: {items.colacao.DisplayName}\nDescripcion: {items.colacao.Description}\nDEBUG 2 --------\n{items.DescribeItem}");
             int itemSelec = Convert.ToInt32(Console.ReadLine());
             Console.Clear();
             Console.Write("DEBUG?"); // DEBUG DE CLASES

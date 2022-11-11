@@ -1,0 +1,15 @@
+/home/administrador/Documents/C#/terminalGame/bin/Debug/net6.0/terminalGame
+/home/administrador/Documents/C#/terminalGame/bin/Debug/net6.0/terminalGame.deps.json
+/home/administrador/Documents/C#/terminalGame/bin/Debug/net6.0/terminalGame.runtimeconfig.json
+/home/administrador/Documents/C#/terminalGame/bin/Debug/net6.0/terminalGame.dll
+/home/administrador/Documents/C#/terminalGame/bin/Debug/net6.0/ref/terminalGame.dll
+/home/administrador/Documents/C#/terminalGame/bin/Debug/net6.0/terminalGame.pdb
+/home/administrador/Documents/C#/terminalGame/obj/Debug/net6.0/terminalGame.csproj.AssemblyReference.cache
+/home/administrador/Documents/C#/terminalGame/obj/Debug/net6.0/terminalGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/administrador/Documents/C#/terminalGame/obj/Debug/net6.0/terminalGame.AssemblyInfoInputs.cache
+/home/administrador/Documents/C#/terminalGame/obj/Debug/net6.0/terminalGame.AssemblyInfo.cs
+/home/administrador/Documents/C#/terminalGame/obj/Debug/net6.0/terminalGame.csproj.CoreCompileInputs.cache
+/home/administrador/Documents/C#/terminalGame/obj/Debug/net6.0/terminalGame.dll
+/home/administrador/Documents/C#/terminalGame/obj/Debug/net6.0/ref/terminalGame.dll
+/home/administrador/Documents/C#/terminalGame/obj/Debug/net6.0/terminalGame.pdb
+/home/administrador/Documents/C#/terminalGame/obj/Debug/net6.0/terminalGame.genruntimeconfig.cache

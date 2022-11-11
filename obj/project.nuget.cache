@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w8FaHLWgKBU3ype2IvqgXCieZPnW6HfRrpBwPuJL+22B/YcZsJsLiGOd0V+apFjUkm4SRTxHceUnJbUhEcSiPg==",
+  "dgSpecHash": "/cLwZCwbifMMwC5S++T9CUPN3mRjpww273D1OadqEoWslgqT46e3No/MDy0RJ7DNoJ5ceS/+995S2VjlLXEOTQ==",
   "success": true,
-  "projectFilePath": "/home/administrador/Documents/C#/terminalGame/terminalGame.csproj",
+  "projectFilePath": "C:\\Users\\segun\\Documents\\Scripts\\c#\\JuegoTerminal\\TerminalGame\\terminalGame.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -64,10 +64,7 @@ ERROR => ";
 - Selección: ";
 
     #endregion
-        //string itemDesc = @"Nombre: {describedItem}";
-
-        // Fin de "Menus y parecidos".
-
+    
         // Funciones
 
         void DebugERROR(string msg) //? Mensaje de error muy visible.

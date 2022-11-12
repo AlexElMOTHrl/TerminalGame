@@ -20,10 +20,6 @@ internal class Program
         // ExpandoObjects
     #region Items
         dynamic items = new ExpandoObject();
-        items.DescribeItem = (Func<String>)(() =>
-        { //! NO FUNCIONA, INTENTA CREAR UN EXPANDO PARA PEDIR LAS VARIABLES DEL OBJETO SELECCIONADO.
-            return $"Id: {items}:\nNombre: {items.descItem.DisplayName}\nDescripción: {items.descItem.Description}\n";
-        });
     
         items.caca = new ExpandoObject();
         items.caca.Id = 5;
